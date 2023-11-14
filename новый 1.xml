@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<root>
+	  <day_number>3</day_number>
+	  <week_number>11</week_number>
+	  <date>2023-11-08</date>
+	  <note/>
+	  <type/>
+	  <lessons>
+		<lesson>
+			<pair_id>2587000322</pair_id>
+			<subject>Информатика</subject>
+			<subject_id>25416</subject_id>
+			<note> Актовый зал</note>
+			<type>Лекции</type>
+			<time_start>08:20</time_start>
+			<time_end>09:50</time_end>
+			<teacher_id>125598</teacher_id>
+			<teacher_name>Балакшин Павел Валерьевич</teacher_name>
+			<room>Актовый зал (1216/0 (усл))</room>
+			<building>ул.Ломоносова, д.9, лит. М</building>
+			<format>Очно - дистанционный </format>
+			<work_type>Лекции</work_type>
+			<work_type_id>1</work_type_id>
+			<group>ИНФОРМ 3</group>
+			<flow_type_id>2</flow_type_id>
+			<flow_id>34065</flow_id>
+			<zoom_url/>
+			<zoom_password/>
+			<zoom_info/>
+			<bld_id>37</bld_id>
+			<format_id>2</format_id>
+			<main_bld_id>273</main_bld_id>
+		</lesson>
+		<lesson>
+			<pair_id>2481226695</pair_id>
+			<subject>Основы профессиональной деятельности</subject>
+			<subject_id>26075</subject_id>
+			<note> Актовый зал</note>
+			<type>Лекции</type>
+			<time_start>10:00</time_start>
+			<time_end>11:30</time_end>
+			<teacher_id>105395</teacher_id>
+			<teacher_name>Клименков Сергей Викторович</teacher_name>
+			<room>Актовый зал (1216/0 (усл))</room>
+			<building>ул.Ломоносова, д.9, лит. М</building>
+			<format>Очно - дистанционный </format>
+			<work_type>Лекции</work_type>
+			<work_type_id>1</work_type_id>
+			<group>ОснПрофДеят 1</group>
+			<flow_type_id>2</flow_type_id>
+			<flow_id>33732</flow_id>
+			<zoom_url/>
+			<zoom_password/>
+			<zoom_info/>
+			<bld_id>37</bld_id>
+			<format_id>2</format_id>
+			<main_bld_id>273</main_bld_id>
+		</lesson>
+	  </lessons>
+	</root>
